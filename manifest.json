@@ -1,7 +1,7 @@
 {
   "name": "libsvm-js",
   "short_name": "libsvm-j-",
-  "start_url": "https://mljs.github.io/libsvm/",
+  "start_url": "https://harleyzheng.github.io/libsvm/",
   "display": "standalone",
   "background_color": "#fff",
   "description": "A javascript library to do Support Vector Machines",
